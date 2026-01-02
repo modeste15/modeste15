@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **devmodeste@gmail.com**
   
-- lINKS : <a href='https://modeste.vercel.app/'>HERE</a>
+- lINKS : <a href='https://modeste.app/'>HERE</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
