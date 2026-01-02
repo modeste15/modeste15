@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **devmodeste@gmail.com**
   
-- LINKS : <a href='https://modeste.app/'>HERE</a>
+- CV : https://modeste.app/
+
+- Blog : 
 
 
 
