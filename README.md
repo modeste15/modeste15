@@ -11,9 +11,5 @@
   
 - LINKS : <a href='https://modeste.app/'>HERE</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 
 
