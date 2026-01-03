@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science, Business Intelligence, IA**
 
-- 💬 Ask me about **Laravel, PHP, SQL, Python, Flask, Algorithms**
+- 💬 Ask me about ** PHP, SQL, NodeJS, Python, Algorithms**
 
 - 📫 How to reach me **devmodeste@gmail.com**
   
