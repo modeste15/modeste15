@@ -38,11 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="postgresql"/>
 </p>
 
-<h4>Data Science & Machine Learning</h4>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="tensorflow"/>
-</p>
+
 
 <h4>DevOps & Infrastructure</h4>
 <p align="left">
