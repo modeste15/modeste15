@@ -1,6 +1,8 @@
-# Data and Software | [Product designer des fois](boble.io/register) 
+# Data and Software | 
 
-# [Mon CV ](https://modeste.app)
+But [Product reviewer For Boble.io](boble.io/register) 
+
+## [Mon CV ](https://modeste.app)
 
 
 ## Compétences
