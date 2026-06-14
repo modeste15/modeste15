@@ -1,4 +1,4 @@
-# Data and Web Software 
+# Data and Software 
 
 But [Product reviewer For Boble.io](https://boble.io/register) 
 
@@ -40,15 +40,6 @@ But [Product reviewer For Boble.io](https://boble.io/register)
 - SonarQube  
 - Méthodologies Agile  
 - Notions DevOps  
-
-
-## Formation
-
-- Site du zero 
-- Licence profesionnelle Genie logiciel (Lomé 2017 - 2020)
-- Licence Informatique  (Havre 2021 - 2022)
-- Msc Systeme d'information (Tours 2023 - 2025)
-- Autodicdate (2025 - Aujourd'hui )
 
 
 ---
