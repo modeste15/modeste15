@@ -1,3 +1,17 @@
+# Data & Software
+
+> De la donnée brute à la décision : recueillir, transformer, livrer.
+
+But du profil : Product Reviewer pour [Boble.io](https://boble.io/register)  
+[Mon CV](https://modeste.app)
+
+## À propos
+
+Software and Data Analyst. Je construis le pont entre le besoin métier et la donnée qui le nourrit, du recueil jusqu'à la mise en production. Chaque projet est pensé comme un pipeline : entrée brute, transformation, sortie exploitable.
+
+```
+[ Besoin métier ] → [ Modélisation ] → [ Pipeline ETL ] → [ Insight ]
+```
 
 ## Compétences
 
